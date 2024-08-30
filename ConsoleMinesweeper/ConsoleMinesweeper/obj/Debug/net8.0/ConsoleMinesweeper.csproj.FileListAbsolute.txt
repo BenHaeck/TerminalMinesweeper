@@ -1,0 +1,14 @@
+C:\Users\bnhae\Desktop\Projects\ConsoleMinesweeper\ConsoleMinesweeper\bin\Debug\net8.0\ConsoleMinesweeper.exe
+C:\Users\bnhae\Desktop\Projects\ConsoleMinesweeper\ConsoleMinesweeper\bin\Debug\net8.0\ConsoleMinesweeper.deps.json
+C:\Users\bnhae\Desktop\Projects\ConsoleMinesweeper\ConsoleMinesweeper\bin\Debug\net8.0\ConsoleMinesweeper.runtimeconfig.json
+C:\Users\bnhae\Desktop\Projects\ConsoleMinesweeper\ConsoleMinesweeper\bin\Debug\net8.0\ConsoleMinesweeper.dll
+C:\Users\bnhae\Desktop\Projects\ConsoleMinesweeper\ConsoleMinesweeper\bin\Debug\net8.0\ConsoleMinesweeper.pdb
+C:\Users\bnhae\Desktop\Projects\ConsoleMinesweeper\ConsoleMinesweeper\obj\Debug\net8.0\ConsoleMinesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bnhae\Desktop\Projects\ConsoleMinesweeper\ConsoleMinesweeper\obj\Debug\net8.0\ConsoleMinesweeper.AssemblyInfoInputs.cache
+C:\Users\bnhae\Desktop\Projects\ConsoleMinesweeper\ConsoleMinesweeper\obj\Debug\net8.0\ConsoleMinesweeper.AssemblyInfo.cs
+C:\Users\bnhae\Desktop\Projects\ConsoleMinesweeper\ConsoleMinesweeper\obj\Debug\net8.0\ConsoleMinesweeper.csproj.CoreCompileInputs.cache
+C:\Users\bnhae\Desktop\Projects\ConsoleMinesweeper\ConsoleMinesweeper\obj\Debug\net8.0\ConsoleMinesweeper.dll
+C:\Users\bnhae\Desktop\Projects\ConsoleMinesweeper\ConsoleMinesweeper\obj\Debug\net8.0\refint\ConsoleMinesweeper.dll
+C:\Users\bnhae\Desktop\Projects\ConsoleMinesweeper\ConsoleMinesweeper\obj\Debug\net8.0\ConsoleMinesweeper.pdb
+C:\Users\bnhae\Desktop\Projects\ConsoleMinesweeper\ConsoleMinesweeper\obj\Debug\net8.0\ConsoleMinesweeper.genruntimeconfig.cache
+C:\Users\bnhae\Desktop\Projects\ConsoleMinesweeper\ConsoleMinesweeper\obj\Debug\net8.0\ref\ConsoleMinesweeper.dll
